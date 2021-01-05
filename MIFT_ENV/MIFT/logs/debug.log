@@ -1,0 +1,1390 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 14811
+"GET / HTTP/1.1" 200 14811
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140930
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140930
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31396
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31396
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 200 4744
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 200 4744
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 200 1380
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 200 1380
+"GET /static/css/style.default.css HTTP/1.1" 200 57407
+"GET /static/css/style.default.css HTTP/1.1" 200 57407
+"GET /static/css/custom.css HTTP/1.1" 200 79
+"GET /static/css/custom.css HTTP/1.1" 200 79
+"GET /static/img/company-1.png HTTP/1.1" 200 3494
+"GET /static/img/company-1.png HTTP/1.1" 200 3494
+"GET /static/img/logo-small.png HTTP/1.1" 200 5152
+"GET /static/img/logo-small.png HTTP/1.1" 200 5152
+"GET /static/img/featured1.jpg HTTP/1.1" 200 13701
+"GET /static/img/featured1.jpg HTTP/1.1" 200 13701
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 200 20337
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 200 20337
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 200 3121
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 200 3121
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 200 86927
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 200 86927
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 50731
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 50731
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 200 44342
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 200 44342
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 200 44448
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 200 44448
+"GET /static/js/front.js HTTP/1.1" 200 8053
+"GET /static/js/front.js HTTP/1.1" 200 8053
+Not Found: /favicon.png
+Not Found: /favicon.png
+"GET /favicon.png HTTP/1.1" 404 5298
+"GET /favicon.png HTTP/1.1" 404 5298
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 15384
+"GET / HTTP/1.1" 200 15384
+"GET /ngo/dashboard/ HTTP/1.1" 200 10716
+"GET /ngo/dashboard/ HTTP/1.1" 200 10716
+Not Found: /ngo/dashboard/favicon.png
+Not Found: /ngo/dashboard/favicon.png
+"GET /ngo/dashboard/favicon.png HTTP/1.1" 404 6190
+"GET /ngo/dashboard/favicon.png HTTP/1.1" 404 6190
+"GET /jobs/20/update HTTP/1.1" 200 13548
+"GET /jobs/20/update HTTP/1.1" 200 13548
+"GET /static/vendor/bootstrap-select/css/bootstrap-select.min.css HTTP/1.1" 200 9777
+"GET /static/vendor/bootstrap-select/css/bootstrap-select.min.css HTTP/1.1" 200 9777
+Not Found: /jobs/20/favicon.png
+Not Found: /jobs/20/favicon.png
+"GET /jobs/20/favicon.png HTTP/1.1" 404 5322
+"GET /jobs/20/favicon.png HTTP/1.1" 404 5322
+"GET /jobs/20/update HTTP/1.1" 200 13548
+"GET /jobs/20/update HTTP/1.1" 200 13548
+"POST /jobs/20/update HTTP/1.1" 302 0
+"POST /jobs/20/update HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+"GET /jobs/20/update HTTP/1.1" 200 13549
+"GET /jobs/20/update HTTP/1.1" 200 13549
+/home/geek/Desktop/MIFT_ENV/MIFT/jobsapp/models.py changed, reloading.
+/home/geek/Desktop/MIFT_ENV/MIFT/jobsapp/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /jobs/20/update
+Traceback (most recent call last):
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/edit.py", line 190, in get
+    return super().get(request, *args, **kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/edit.py", line 133, in get
+    return self.render_to_response(self.get_context_data())
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/edit.py", line 66, in get_context_data
+    kwargs['form'] = self.get_form()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/edit.py", line 32, in get_form
+    form_class = self.get_form_class()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/edit.py", line 101, in get_form_class
+    return model_forms.modelform_factory(model, fields=self.fields)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/forms/models.py", line 554, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/forms/models.py", line 267, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (phone_number) specified for Job
+Internal Server Error: /jobs/20/update
+Traceback (most recent call last):
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/edit.py", line 190, in get
+    return super().get(request, *args, **kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/edit.py", line 133, in get
+    return self.render_to_response(self.get_context_data())
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/edit.py", line 66, in get_context_data
+    kwargs['form'] = self.get_form()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/edit.py", line 32, in get_form
+    form_class = self.get_form_class()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/edit.py", line 101, in get_form_class
+    return model_forms.modelform_factory(model, fields=self.fields)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/forms/models.py", line 554, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/forms/models.py", line 267, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (phone_number) specified for Job
+"GET /jobs/20/update HTTP/1.1" 500 114223
+"GET /jobs/20/update HTTP/1.1" 500 114223
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5298
+"GET /favicon.ico HTTP/1.1" 404 5298
+/home/geek/Desktop/MIFT_ENV/MIFT/jobsapp/models.py changed, reloading.
+/home/geek/Desktop/MIFT_ENV/MIFT/jobsapp/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /jobs/20/update HTTP/1.1" 200 13549
+"GET /jobs/20/update HTTP/1.1" 200 13549
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"POST /jobs/20/update HTTP/1.1" 200 14411
+"POST /jobs/20/update HTTP/1.1" 200 14411
+"POST /jobs/20/update HTTP/1.1" 302 0
+"POST /jobs/20/update HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+"GET /jobs/20/update HTTP/1.1" 200 13549
+"GET /jobs/20/update HTTP/1.1" 200 13549
+/home/geek/Desktop/MIFT_ENV/MIFT/jobsapp/models.py changed, reloading.
+/home/geek/Desktop/MIFT_ENV/MIFT/jobsapp/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/MIFT_ENV/MIFT/jobsapp/views/ngo.py changed, reloading.
+/home/geek/Desktop/MIFT_ENV/MIFT/jobsapp/views/ngo.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /jobs/20/update HTTP/1.1" 200 13549
+"GET /jobs/20/update HTTP/1.1" 200 13549
+/home/geek/Desktop/MIFT_ENV/MIFT/jobsapp/views/home.py changed, reloading.
+/home/geek/Desktop/MIFT_ENV/MIFT/jobsapp/views/home.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/MIFT_ENV/MIFT/jobsapp/views/home.py changed, reloading.
+/home/geek/Desktop/MIFT_ENV/MIFT/jobsapp/views/home.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /jobs/20/update HTTP/1.1" 200 13549
+"GET /jobs/20/update HTTP/1.1" 200 13549
+"POST /jobs/20/update HTTP/1.1" 302 0
+"POST /jobs/20/update HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+/home/geek/Desktop/MIFT_ENV/MIFT/jobsapp/views/home.py changed, reloading.
+/home/geek/Desktop/MIFT_ENV/MIFT/jobsapp/views/home.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /jobs/20/update HTTP/1.1" 200 13549
+"GET /jobs/20/update HTTP/1.1" 200 13549
+"POST /jobs/20/update HTTP/1.1" 302 0
+"POST /jobs/20/update HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+/home/geek/Desktop/MIFT_ENV/MIFT/jobsapp/views/home.py changed, reloading.
+/home/geek/Desktop/MIFT_ENV/MIFT/jobsapp/views/home.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /jobs/20/update HTTP/1.1" 200 13549
+"GET /jobs/20/update HTTP/1.1" 200 13549
+"POST /jobs/20/update HTTP/1.1" 302 0
+"POST /jobs/20/update HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /jobs/20/update HTTP/1.1" 200 13575
+"GET /jobs/20/update HTTP/1.1" 200 13575
+"POST /jobs/20/update HTTP/1.1" 302 0
+"POST /jobs/20/update HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+"GET /jobs/20/update HTTP/1.1" 200 13581
+"GET /jobs/20/update HTTP/1.1" 200 13581
+"GET / HTTP/1.1" 200 15384
+"GET / HTTP/1.1" 200 15384
+"GET /jobs/16 HTTP/1.1" 200 8750
+"GET /jobs/16 HTTP/1.1" 200 8750
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+"GET / HTTP/1.1" 200 15384
+"GET / HTTP/1.1" 200 15384
+"GET /jobs/20 HTTP/1.1" 200 8400
+"GET /jobs/20 HTTP/1.1" 200 8400
+Not Found: /jobs/favicon.png
+Not Found: /jobs/favicon.png
+"GET /jobs/favicon.png HTTP/1.1" 404 5313
+"GET /jobs/favicon.png HTTP/1.1" 404 5313
+"GET /jobs/20 HTTP/1.1" 200 8400
+"GET /jobs/20 HTTP/1.1" 200 8400
+"GET /jobs/17 HTTP/1.1" 200 8746
+"GET /jobs/17 HTTP/1.1" 200 8746
+"GET /jobs/16 HTTP/1.1" 200 8750
+"GET /jobs/16 HTTP/1.1" 200 8750
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+"GET /ngo/dashboard/ HTTP/1.1" 200 10717
+"GET /jobs/20/update HTTP/1.1" 200 13581
+"GET /jobs/20/update HTTP/1.1" 200 13581
+"GET /jobs/20/update HTTP/1.1" 200 13581
+"GET /jobs/20/update HTTP/1.1" 200 13581
+"GET /jobs/20 HTTP/1.1" 200 8400
+"GET /jobs/20 HTTP/1.1" 200 8400
+"GET / HTTP/1.1" 200 15384
+"GET / HTTP/1.1" 200 15384
+"GET /ngo/jobs/create HTTP/1.1" 200 12557
+"GET /ngo/jobs/create HTTP/1.1" 200 12557
+Not Found: /ngo/jobs/favicon.png
+Not Found: /ngo/jobs/favicon.png
+"GET /ngo/jobs/favicon.png HTTP/1.1" 404 5325
+"GET /ngo/jobs/favicon.png HTTP/1.1" 404 5325
+"POST /ngo/jobs/create HTTP/1.1" 302 0
+"POST /ngo/jobs/create HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 12904
+"GET /ngo/dashboard/ HTTP/1.1" 200 12904
+"GET /ngo/dashboard/ HTTP/1.1" 200 12904
+"GET /ngo/dashboard/ HTTP/1.1" 200 12904
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET / HTTP/1.1" 200 18649
+"GET / HTTP/1.1" 200 18649
+"GET /jobs/21 HTTP/1.1" 200 8544
+"GET /jobs/21 HTTP/1.1" 200 8544
+"GET /jobs/21 HTTP/1.1" 200 8628
+"GET /jobs/21 HTTP/1.1" 200 8628
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET / HTTP/1.1" 200 18650
+"GET / HTTP/1.1" 200 18650
+"GET /jobs/20 HTTP/1.1" 200 8553
+"GET /jobs/20 HTTP/1.1" 200 8553
+Internal Server Error: /logout
+Traceback (most recent call last):
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/sqlite3/base.py", line 396, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/MIFT/accounts/views.py", line 109, in get
+    auth.logout(request)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/contrib/auth/__init__.py", line 145, in logout
+    request.session.flush()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py", line 301, in flush
+    self.delete()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/contrib/sessions/backends/db.py", line 103, in delete
+    self.model.objects.get(session_key=session_key).delete()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/base.py", line 938, in delete
+    return collector.delete()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/deletion.py", line 300, in delete
+    count = sql.DeleteQuery(model).delete_batch([instance.pk], self.using)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/sql/subqueries.py", line 41, in delete_batch
+    num_deleted += self.do_query(self.get_meta().db_table, self.where, using=using)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/sql/subqueries.py", line 24, in do_query
+    cursor = self.get_compiler(using).execute_sql(CURSOR)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1152, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/sqlite3/base.py", line 396, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+Internal Server Error: /logout
+Traceback (most recent call last):
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/sqlite3/base.py", line 396, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/MIFT/accounts/views.py", line 109, in get
+    auth.logout(request)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/contrib/auth/__init__.py", line 145, in logout
+    request.session.flush()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py", line 301, in flush
+    self.delete()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/contrib/sessions/backends/db.py", line 103, in delete
+    self.model.objects.get(session_key=session_key).delete()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/base.py", line 938, in delete
+    return collector.delete()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/deletion.py", line 300, in delete
+    count = sql.DeleteQuery(model).delete_batch([instance.pk], self.using)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/sql/subqueries.py", line 41, in delete_batch
+    num_deleted += self.do_query(self.get_meta().db_table, self.where, using=using)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/sql/subqueries.py", line 24, in do_query
+    cursor = self.get_compiler(using).execute_sql(CURSOR)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1152, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/sqlite3/base.py", line 396, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+"GET /logout HTTP/1.1" 500 158150
+"GET /logout HTTP/1.1" 500 158150
+Internal Server Error: /logout
+Traceback (most recent call last):
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/sqlite3/base.py", line 396, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/MIFT/accounts/views.py", line 109, in get
+    auth.logout(request)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/contrib/auth/__init__.py", line 145, in logout
+    request.session.flush()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py", line 301, in flush
+    self.delete()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/contrib/sessions/backends/db.py", line 103, in delete
+    self.model.objects.get(session_key=session_key).delete()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/base.py", line 938, in delete
+    return collector.delete()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/deletion.py", line 300, in delete
+    count = sql.DeleteQuery(model).delete_batch([instance.pk], self.using)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/sql/subqueries.py", line 41, in delete_batch
+    num_deleted += self.do_query(self.get_meta().db_table, self.where, using=using)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/sql/subqueries.py", line 24, in do_query
+    cursor = self.get_compiler(using).execute_sql(CURSOR)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1152, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/sqlite3/base.py", line 396, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+Internal Server Error: /logout
+Traceback (most recent call last):
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/sqlite3/base.py", line 396, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/geek/Desktop/MIFT_ENV/MIFT/accounts/views.py", line 109, in get
+    auth.logout(request)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/contrib/auth/__init__.py", line 145, in logout
+    request.session.flush()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py", line 301, in flush
+    self.delete()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/contrib/sessions/backends/db.py", line 103, in delete
+    self.model.objects.get(session_key=session_key).delete()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/base.py", line 938, in delete
+    return collector.delete()
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/deletion.py", line 300, in delete
+    count = sql.DeleteQuery(model).delete_batch([instance.pk], self.using)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/sql/subqueries.py", line 41, in delete_batch
+    num_deleted += self.do_query(self.get_meta().db_table, self.where, using=using)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/sql/subqueries.py", line 24, in do_query
+    cursor = self.get_compiler(using).execute_sql(CURSOR)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1152, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/geek/Desktop/MIFT_ENV/lib/python3.6/site-packages/django/db/backends/sqlite3/base.py", line 396, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+"GET /logout HTTP/1.1" 500 158150
+"GET /logout HTTP/1.1" 500 158150
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 18525
+"GET / HTTP/1.1" 200 18525
+"GET /ngo/dashboard/ HTTP/1.1" 200 8412
+"GET /ngo/dashboard/ HTTP/1.1" 200 8412
+"GET /ngo/jobs/create HTTP/1.1" 200 11980
+"GET /ngo/jobs/create HTTP/1.1" 200 11980
+"POST /ngo/jobs/create HTTP/1.1" 302 0
+"POST /ngo/jobs/create HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 10592
+"GET /ngo/dashboard/ HTTP/1.1" 200 10592
+"GET / HTTP/1.1" 200 21794
+"GET / HTTP/1.1" 200 21794
+"GET /jobs/22 HTTP/1.1" 200 9348
+"GET /jobs/22 HTTP/1.1" 200 9348
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 21348
+"GET / HTTP/1.1" 200 21348
+Not Found: /favicon.png
+Not Found: /favicon.png
+"GET /favicon.png HTTP/1.1" 404 5297
+"GET /favicon.png HTTP/1.1" 404 5297
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 21796
+"GET / HTTP/1.1" 200 21796
+"GET /ngo/dashboard/ HTTP/1.1" 200 10592
+"GET /ngo/dashboard/ HTTP/1.1" 200 10592
+Not Found: /ngo/dashboard/favicon.png
+Not Found: /ngo/dashboard/favicon.png
+"GET /ngo/dashboard/favicon.png HTTP/1.1" 404 6189
+"GET /ngo/dashboard/favicon.png HTTP/1.1" 404 6189
+"GET /jobs/22/update HTTP/1.1" 200 12991
+"GET /jobs/22/update HTTP/1.1" 200 12991
+Not Found: /jobs/22/favicon.png
+Not Found: /jobs/22/favicon.png
+"GET /jobs/22/favicon.png HTTP/1.1" 404 5321
+"GET /jobs/22/favicon.png HTTP/1.1" 404 5321
+"GET /ngo/jobs/create HTTP/1.1" 200 11980
+"GET /ngo/jobs/create HTTP/1.1" 200 11980
+Not Found: /ngo/jobs/favicon.png
+Not Found: /ngo/jobs/favicon.png
+"GET /ngo/jobs/favicon.png HTTP/1.1" 404 5324
+"GET /ngo/jobs/favicon.png HTTP/1.1" 404 5324
+"GET /jobs/21 HTTP/1.1" 200 8552
+"GET /jobs/21 HTTP/1.1" 200 8552
+Not Found: /jobs/favicon.png
+Not Found: /jobs/favicon.png
+"GET /jobs/favicon.png HTTP/1.1" 404 5312
+"GET /jobs/favicon.png HTTP/1.1" 404 5312
+"GET /donates/8 HTTP/1.1" 200 12063
+"GET /donates/8 HTTP/1.1" 200 12063
+"GET /static/css/style.css HTTP/1.1" 200 18895
+"GET /static/css/style.css HTTP/1.1" 200 18895
+"GET /static/js/easyResponsiveTabs.js HTTP/1.1" 200 5697
+"GET /static/js/easyResponsiveTabs.js HTTP/1.1" 200 5697
+"GET /static/js/jquery.min.js HTTP/1.1" 200 96381
+"GET /static/js/jquery.min.js HTTP/1.1" 200 96381
+"GET /static/fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic HTTP/1.1" 404 1785
+"GET /static/fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic HTTP/1.1" 404 1785
+"GET /static/img/1.png HTTP/1.1" 200 4929
+"GET /static/img/1.png HTTP/1.1" 200 4929
+"GET /static/img/pic2.png HTTP/1.1" 200 389
+"GET /static/img/pic2.png HTTP/1.1" 200 389
+"GET /static/img/pic1.png HTTP/1.1" 200 1002
+"GET /static/img/pic1.png HTTP/1.1" 200 1002
+"GET /static/img/pic4.png HTTP/1.1" 200 706
+"GET /static/img/pic4.png HTTP/1.1" 200 706
+"GET /static/img/pic3.png HTTP/1.1" 200 348
+"GET /static/img/pic3.png HTTP/1.1" 200 348
+"GET /static/img/visa.png HTTP/1.1" 200 3991
+"GET /static/img/visa.png HTTP/1.1" 200 3991
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5297
+"GET /favicon.ico HTTP/1.1" 404 5297
+"GET / HTTP/1.1" 200 21796
+"GET / HTTP/1.1" 200 21796
+"GET /jobs/21 HTTP/1.1" 200 8552
+"GET /jobs/21 HTTP/1.1" 200 8552
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"GET /ngo/register HTTP/1.1" 200 10963
+"GET /ngo/register HTTP/1.1" 200 10963
+Not Found: /ngo/favicon.png
+Not Found: /ngo/favicon.png
+"GET /ngo/favicon.png HTTP/1.1" 404 5309
+"GET /ngo/favicon.png HTTP/1.1" 404 5309
+"POST /ngo/register HTTP/1.1" 302 0
+"POST /ngo/register HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 21933
+"GET / HTTP/1.1" 200 21933
+"GET /ngo/jobs/create HTTP/1.1" 200 12569
+"GET /ngo/jobs/create HTTP/1.1" 200 12569
+"POST /ngo/jobs/create HTTP/1.1" 200 13599
+"POST /ngo/jobs/create HTTP/1.1" 200 13599
+"POST /ngo/jobs/create HTTP/1.1" 302 0
+"POST /ngo/jobs/create HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 10727
+"GET /ngo/dashboard/ HTTP/1.1" 200 10727
+"GET /ngo/jobs/create HTTP/1.1" 200 12569
+"GET /ngo/jobs/create HTTP/1.1" 200 12569
+"GET / HTTP/1.1" 200 25150
+"GET / HTTP/1.1" 200 25150
+"GET /ngo/jobs/create HTTP/1.1" 200 12569
+"GET /ngo/jobs/create HTTP/1.1" 200 12569
+"POST /ngo/jobs/create HTTP/1.1" 302 0
+"POST /ngo/jobs/create HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 12910
+"GET /ngo/dashboard/ HTTP/1.1" 200 12910
+"GET /jobs/23/update HTTP/1.1" 200 13570
+"GET /jobs/23/update HTTP/1.1" 200 13570
+Not Found: /jobs/23/favicon.png
+Not Found: /jobs/23/favicon.png
+"GET /jobs/23/favicon.png HTTP/1.1" 404 5321
+"GET /jobs/23/favicon.png HTTP/1.1" 404 5321
+"GET /ngo/dashboard/mark-filled/23 HTTP/1.1" 302 0
+"GET /ngo/dashboard/mark-filled/23 HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 12892
+"GET /ngo/dashboard/ HTTP/1.1" 200 12892
+"GET /ngo/dashboard/mark-filled/23 HTTP/1.1" 302 0
+"GET /ngo/dashboard/mark-filled/23 HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 12892
+"GET /ngo/dashboard/ HTTP/1.1" 200 12892
+"GET /ngo/dashboard/mark-filled/23 HTTP/1.1" 302 0
+"GET /ngo/dashboard/mark-filled/23 HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 12892
+"GET /ngo/dashboard/ HTTP/1.1" 200 12892
+"GET /ngo/dashboard/mark-filled/23 HTTP/1.1" 302 0
+"GET /ngo/dashboard/mark-filled/23 HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 12892
+"GET /ngo/dashboard/ HTTP/1.1" 200 12892
+"GET /ngo/dashboard/mark-filled/24 HTTP/1.1" 302 0
+"GET /ngo/dashboard/mark-filled/24 HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 12874
+"GET /ngo/dashboard/ HTTP/1.1" 200 12874
+"GET /ngo/dashboard/mark-filled/24 HTTP/1.1" 302 0
+"GET /ngo/dashboard/mark-filled/24 HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 12874
+"GET /ngo/dashboard/ HTTP/1.1" 200 12874
+"GET /ngo/dashboard/mark-filled/24 HTTP/1.1" 302 0
+"GET /ngo/dashboard/mark-filled/24 HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 12874
+"GET /ngo/dashboard/ HTTP/1.1" 200 12874
+"GET /jobs/24/update HTTP/1.1" 200 13552
+"GET /jobs/24/update HTTP/1.1" 200 13552
+Not Found: /jobs/24/favicon.png
+Not Found: /jobs/24/favicon.png
+"GET /jobs/24/favicon.png HTTP/1.1" 404 5321
+"GET /jobs/24/favicon.png HTTP/1.1" 404 5321
+"POST /jobs/24/update HTTP/1.1" 302 0
+"POST /jobs/24/update HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 12874
+"GET /ngo/dashboard/ HTTP/1.1" 200 12874
+"GET /ngo/dashboard/mark-filled/24 HTTP/1.1" 302 0
+"GET /ngo/dashboard/mark-filled/24 HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 12874
+"GET /ngo/dashboard/ HTTP/1.1" 200 12874
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"GET /ngo/register HTTP/1.1" 200 10963
+"GET /ngo/register HTTP/1.1" 200 10963
+"GET /user/register HTTP/1.1" 200 10416
+"GET /user/register HTTP/1.1" 200 10416
+Not Found: /user/favicon.png
+Not Found: /user/favicon.png
+"GET /user/favicon.png HTTP/1.1" 404 5312
+"GET /user/favicon.png HTTP/1.1" 404 5312
+"POST /user/register HTTP/1.1" 302 0
+"POST /user/register HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 28269
+"GET / HTTP/1.1" 200 28269
+"GET /jobs/24 HTTP/1.1" 200 9318
+"GET /jobs/24 HTTP/1.1" 200 9318
+"POST /apply-job/24 HTTP/1.1" 302 0
+"POST /apply-job/24 HTTP/1.1" 302 0
+"GET /jobs/24 HTTP/1.1" 200 8874
+"GET /jobs/24 HTTP/1.1" 200 8874
+"GET /jobs/24 HTTP/1.1" 200 8516
+"GET /jobs/24 HTTP/1.1" 200 8516
+"GET / HTTP/1.1" 200 28269
+"GET / HTTP/1.1" 200 28269
+"GET /jobs/23 HTTP/1.1" 200 8509
+"GET /jobs/23 HTTP/1.1" 200 8509
+"GET /donates/23 HTTP/1.1" 200 12069
+"GET /donates/23 HTTP/1.1" 200 12069
+"GET /static/fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic HTTP/1.1" 404 1785
+"GET /static/fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic HTTP/1.1" 404 1785
+"GET /static/img/tick-mark1.png HTTP/1.1" 200 2849
+"GET /static/img/tick-mark1.png HTTP/1.1" 200 2849
+"GET / HTTP/1.1" 200 28269
+"GET / HTTP/1.1" 200 28269
+"GET /ngo/jobs/create HTTP/1.1" 200 11983
+"GET /ngo/jobs/create HTTP/1.1" 200 11983
+"POST /ngo/jobs/create HTTP/1.1" 302 0
+"POST /ngo/jobs/create HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 10596
+"GET /ngo/dashboard/ HTTP/1.1" 200 10596
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 31705
+"GET / HTTP/1.1" 200 31705
+"GET /jobs/25 HTTP/1.1" 200 8559
+"GET /jobs/25 HTTP/1.1" 200 8559
+"GET / HTTP/1.1" 200 18663
+"GET / HTTP/1.1" 200 18663
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 18661
+"GET / HTTP/1.1" 200 18661
+"GET /jobs/21 HTTP/1.1" 200 8639
+"GET /jobs/21 HTTP/1.1" 200 8639
+"GET /ngo/dashboard/ HTTP/1.1" 200 10713
+"GET /ngo/dashboard/ HTTP/1.1" 200 10713
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 6306
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 6306
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"GET /ngo/register HTTP/1.1" 200 10963
+"GET /ngo/register HTTP/1.1" 200 10963
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 18661
+"GET / HTTP/1.1" 200 18661
+"GET /jobs/16 HTTP/1.1" 200 8901
+"GET /jobs/16 HTTP/1.1" 200 8901
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 6306
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 6306
+"GET /ngo/jobs/create HTTP/1.1" 200 12558
+"GET /ngo/jobs/create HTTP/1.1" 200 12558
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 6306
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 6306
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"GET /ngo/register HTTP/1.1" 200 10963
+"GET /ngo/register HTTP/1.1" 200 10963
+"POST /ngo/register HTTP/1.1" 302 0
+"POST /ngo/register HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 18667
+"GET / HTTP/1.1" 200 18667
+"GET /jobs/16 HTTP/1.1" 200 8906
+"GET /jobs/16 HTTP/1.1" 200 8906
+"GET /jobs/17 HTTP/1.1" 200 8902
+"GET /jobs/17 HTTP/1.1" 200 8902
+"GET /jobs/21 HTTP/1.1" 200 8645
+"GET /jobs/21 HTTP/1.1" 200 8645
+"GET /ngo/jobs/create HTTP/1.1" 200 12563
+"GET /ngo/jobs/create HTTP/1.1" 200 12563
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 18667
+"GET / HTTP/1.1" 200 18667
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 18667
+"GET / HTTP/1.1" 200 18667
+"GET /ngo/jobs/create HTTP/1.1" 200 12563
+"GET /ngo/jobs/create HTTP/1.1" 200 12563
+"POST /ngo/jobs/create HTTP/1.1" 302 0
+"POST /ngo/jobs/create HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 10728
+"GET /ngo/dashboard/ HTTP/1.1" 200 10728
+"GET /ngo/jobs/create HTTP/1.1" 200 12563
+"GET /ngo/jobs/create HTTP/1.1" 200 12563
+"POST /ngo/jobs/create HTTP/1.1" 302 0
+"POST /ngo/jobs/create HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 12919
+"GET /ngo/dashboard/ HTTP/1.1" 200 12919
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"GET /ngo/register HTTP/1.1" 200 10963
+"GET /ngo/register HTTP/1.1" 200 10963
+"GET /user/register HTTP/1.1" 200 10416
+"GET /user/register HTTP/1.1" 200 10416
+"POST /user/register HTTP/1.1" 302 0
+"POST /user/register HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 25171
+"GET / HTTP/1.1" 200 25171
+"GET /jobs/27 HTTP/1.1" 200 9707
+"GET /jobs/27 HTTP/1.1" 200 9707
+"POST /apply-job/27 HTTP/1.1" 302 0
+"POST /apply-job/27 HTTP/1.1" 302 0
+"GET /jobs/27 HTTP/1.1" 200 9263
+"GET /jobs/27 HTTP/1.1" 200 9263
+"GET /jobs/27 HTTP/1.1" 200 8905
+"GET /jobs/27 HTTP/1.1" 200 8905
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"GET /user/register HTTP/1.1" 200 10416
+"GET /user/register HTTP/1.1" 200 10416
+"POST /user/register HTTP/1.1" 302 0
+"POST /user/register HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 25175
+"GET / HTTP/1.1" 200 25175
+"GET /jobs/26 HTTP/1.1" 200 8819
+"GET /jobs/26 HTTP/1.1" 200 8819
+"GET /donates/25 HTTP/1.1" 200 12070
+"GET /donates/25 HTTP/1.1" 200 12070
+"GET /static/fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic HTTP/1.1" 404 1785
+"GET /static/fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic HTTP/1.1" 404 1785
+"GET / HTTP/1.1" 200 25176
+"GET / HTTP/1.1" 200 25176
+"GET /jobs/21 HTTP/1.1" 200 8565
+"GET /jobs/21 HTTP/1.1" 200 8565
+"GET /jobs/27 HTTP/1.1" 200 9711
+"GET /jobs/27 HTTP/1.1" 200 9711
+"POST /apply-job/27 HTTP/1.1" 302 0
+"POST /apply-job/27 HTTP/1.1" 302 0
+"GET /jobs/27 HTTP/1.1" 200 9267
+"GET /jobs/27 HTTP/1.1" 200 9267
+"GET /jobs/27 HTTP/1.1" 200 8909
+"GET /jobs/27 HTTP/1.1" 200 8909
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"GET /ngo/register HTTP/1.1" 200 10963
+"GET /ngo/register HTTP/1.1" 200 10963
+"GET /user/register HTTP/1.1" 200 10416
+"GET /user/register HTTP/1.1" 200 10416
+"POST /user/register HTTP/1.1" 302 0
+"POST /user/register HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 25176
+"GET / HTTP/1.1" 200 25176
+"GET /jobs/26 HTTP/1.1" 200 8821
+"GET /jobs/26 HTTP/1.1" 200 8821
+"GET /donates/25 HTTP/1.1" 200 12070
+"GET /donates/25 HTTP/1.1" 200 12070
+"GET /static/fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic HTTP/1.1" 404 1785
+"GET /static/fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic HTTP/1.1" 404 1785
+"GET / HTTP/1.1" 200 25176
+"GET / HTTP/1.1" 200 25176
+"GET /jobs/27 HTTP/1.1" 200 9712
+"GET /jobs/27 HTTP/1.1" 200 9712
+"POST /apply-job/27 HTTP/1.1" 302 0
+"POST /apply-job/27 HTTP/1.1" 302 0
+"GET /jobs/27 HTTP/1.1" 200 9268
+"GET /jobs/27 HTTP/1.1" 200 9268
+"GET /jobs/27 HTTP/1.1" 200 8910
+"GET /jobs/27 HTTP/1.1" 200 8910
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 25304
+"GET / HTTP/1.1" 200 25304
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"GET /user/register HTTP/1.1" 200 10416
+"GET /user/register HTTP/1.1" 200 10416
+"POST /user/register HTTP/1.1" 302 0
+"POST /user/register HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 25174
+"GET / HTTP/1.1" 200 25174
+"GET /jobs/21 HTTP/1.1" 200 8562
+"GET /jobs/21 HTTP/1.1" 200 8562
+"GET /jobs/26 HTTP/1.1" 200 8818
+"GET /jobs/26 HTTP/1.1" 200 8818
+"GET /jobs/27 HTTP/1.1" 200 9710
+"GET /jobs/27 HTTP/1.1" 200 9710
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 25305
+"GET / HTTP/1.1" 200 25305
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10016
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10016
+"GET /static/img/avatar.png HTTP/1.1" 200 19773
+"GET /static/img/avatar.png HTTP/1.1" 200 19773
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 25305
+"GET / HTTP/1.1" 200 25305
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10016
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10016
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 25328
+"GET / HTTP/1.1" 200 25328
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/featured1.jpg HTTP/1.1" 304 0
+"GET /static/img/featured1.jpg HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+Not Found: /favicon.png
+Not Found: /favicon.png
+"GET /favicon.png HTTP/1.1" 404 5297
+"GET /favicon.png HTTP/1.1" 404 5297
+"GET /ngo/profile/update HTTP/1.1" 200 10085
+"GET /ngo/profile/update HTTP/1.1" 200 10085
+Not Found: /ngo/profile/favicon.png
+Not Found: /ngo/profile/favicon.png
+"GET /ngo/profile/favicon.png HTTP/1.1" 404 5333
+"GET /ngo/profile/favicon.png HTTP/1.1" 404 5333
+"POST /ngo/profile/update HTTP/1.1" 302 0
+"POST /ngo/profile/update HTTP/1.1" 302 0
+"GET /ngo/profile/update HTTP/1.1" 200 10085
+"GET /ngo/profile/update HTTP/1.1" 200 10085
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 25328
+"GET / HTTP/1.1" 200 25328
+"GET /jobs/27 HTTP/1.1" 200 8910
+"GET /jobs/27 HTTP/1.1" 200 8910
+Not Found: /jobs/favicon.png
+Not Found: /jobs/favicon.png
+"GET /jobs/favicon.png HTTP/1.1" 404 5312
+"GET /jobs/favicon.png HTTP/1.1" 404 5312
+"GET /jobs/16 HTTP/1.1" 200 8906
+"GET /jobs/16 HTTP/1.1" 200 8906
+"GET /jobs/26 HTTP/1.1" 200 8911
+"GET /jobs/26 HTTP/1.1" 200 8911
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10016
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10016
+Not Found: /ngo/dashboard/favicon.png
+Not Found: /ngo/dashboard/favicon.png
+"GET /ngo/dashboard/favicon.png HTTP/1.1" 404 6189
+"GET /ngo/dashboard/favicon.png HTTP/1.1" 404 6189
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10124
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10124
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10154
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10154
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 24747
+"GET / HTTP/1.1" 200 24747
+Not Found: /favicon.png
+Not Found: /favicon.png
+"GET /favicon.png HTTP/1.1" 404 5297
+"GET /favicon.png HTTP/1.1" 404 5297
+"GET /user/register HTTP/1.1" 200 10416
+"GET /user/register HTTP/1.1" 200 10416
+Not Found: /user/favicon.png
+Not Found: /user/favicon.png
+"GET /user/favicon.png HTTP/1.1" 404 5312
+"GET /user/favicon.png HTTP/1.1" 404 5312
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 25196
+"GET / HTTP/1.1" 200 25196
+"GET /jobs/27 HTTP/1.1" 200 9721
+"GET /jobs/27 HTTP/1.1" 200 9721
+Not Found: /jobs/favicon.png
+Not Found: /jobs/favicon.png
+"GET /jobs/favicon.png HTTP/1.1" 404 5312
+"GET /jobs/favicon.png HTTP/1.1" 404 5312
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 25191
+"GET / HTTP/1.1" 200 25191
+Not Found: /favicon.png
+Not Found: /favicon.png
+"GET /favicon.png HTTP/1.1" 404 5297
+"GET /favicon.png HTTP/1.1" 404 5297
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 25322
+"GET / HTTP/1.1" 200 25322
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"GET /ngo/register HTTP/1.1" 200 10963
+"GET /ngo/register HTTP/1.1" 200 10963
+Not Found: /ngo/favicon.png
+Not Found: /ngo/favicon.png
+"GET /ngo/favicon.png HTTP/1.1" 404 5309
+"GET /ngo/favicon.png HTTP/1.1" 404 5309
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 25290
+"GET / HTTP/1.1" 200 25290
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 25290
+"GET / HTTP/1.1" 200 25290
+"GET /ngo/jobs/create HTTP/1.1" 200 12563
+"GET /ngo/jobs/create HTTP/1.1" 200 12563
+"GET /static/vendor/bootstrap-select/css/bootstrap-select.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/css/bootstrap-select.min.css HTTP/1.1" 304 0
+Not Found: /ngo/jobs/favicon.png
+Not Found: /ngo/jobs/favicon.png
+"GET /ngo/jobs/favicon.png HTTP/1.1" 404 5324
+"GET /ngo/jobs/favicon.png HTTP/1.1" 404 5324
+"POST /ngo/jobs/create HTTP/1.1" 302 0
+"POST /ngo/jobs/create HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 15111
+"GET /ngo/dashboard/ HTTP/1.1" 200 15111
+Not Found: /ngo/dashboard/favicon.png
+Not Found: /ngo/dashboard/favicon.png
+"GET /ngo/dashboard/favicon.png HTTP/1.1" 404 6189
+"GET /ngo/dashboard/favicon.png HTTP/1.1" 404 6189
+"GET /jobs/27/update HTTP/1.1" 200 13931
+"GET /jobs/27/update HTTP/1.1" 200 13931
+Not Found: /jobs/27/favicon.png
+Not Found: /jobs/27/favicon.png
+"GET /jobs/27/favicon.png HTTP/1.1" 404 5321
+"GET /jobs/27/favicon.png HTTP/1.1" 404 5321
+"POST /jobs/27/update HTTP/1.1" 302 0
+"POST /jobs/27/update HTTP/1.1" 302 0
+"GET /ngo/dashboard/ HTTP/1.1" 200 15111
+"GET /ngo/dashboard/ HTTP/1.1" 200 15111
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10154
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10154
+"GET /static/img/avatar.png HTTP/1.1" 304 0
+"GET /static/img/avatar.png HTTP/1.1" 304 0
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 28450
+"GET / HTTP/1.1" 200 28450
+"GET /jobs/21 HTTP/1.1" 200 8558
+"GET /jobs/21 HTTP/1.1" 200 8558
+Not Found: /jobs/favicon.png
+Not Found: /jobs/favicon.png
+"GET /jobs/favicon.png HTTP/1.1" 404 5312
+"GET /jobs/favicon.png HTTP/1.1" 404 5312
+"GET /donates/8 HTTP/1.1" 200 12063
+"GET /donates/8 HTTP/1.1" 200 12063
+"GET /static/css/style.css HTTP/1.1" 304 0
+"GET /static/css/style.css HTTP/1.1" 304 0
+"GET /static/fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic HTTP/1.1" 404 1785
+"GET /static/fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic HTTP/1.1" 404 1785
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5297
+"GET /favicon.ico HTTP/1.1" 404 5297
+"GET / HTTP/1.1" 200 28450
+"GET / HTTP/1.1" 200 28450
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 28581
+"GET / HTTP/1.1" 200 28581
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10154
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10154
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10154
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10154
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10154
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 10154
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 28451
+"GET / HTTP/1.1" 200 28451
+"GET /jobs/28 HTTP/1.1" 200 9369
+"GET /jobs/28 HTTP/1.1" 200 9369
+"POST /apply-job/28 HTTP/1.1" 302 0
+"POST /apply-job/28 HTTP/1.1" 302 0
+"GET /jobs/28 HTTP/1.1" 200 8925
+"GET /jobs/28 HTTP/1.1" 200 8925
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 28581
+"GET / HTTP/1.1" 200 28581
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 11434
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 11434
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 28589
+"GET / HTTP/1.1" 200 28589
+Not Found: /favicon.png
+Not Found: /favicon.png
+"GET /favicon.png HTTP/1.1" 404 5297
+"GET /favicon.png HTTP/1.1" 404 5297
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"GET / HTTP/1.1" 200 28010
+"GET / HTTP/1.1" 200 28010
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 28589
+"GET / HTTP/1.1" 200 28589
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 11434
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 11434
+"GET /static/img/avatar.png HTTP/1.1" 200 19773
+"GET /static/img/avatar.png HTTP/1.1" 200 19773
+Not Found: /ngo/dashboard/favicon.png
+Not Found: /ngo/dashboard/favicon.png
+"GET /ngo/dashboard/favicon.png HTTP/1.1" 404 6189
+"GET /ngo/dashboard/favicon.png HTTP/1.1" 404 6189
+"GET /ngo/profile/update HTTP/1.1" 200 10085
+"GET /ngo/profile/update HTTP/1.1" 200 10085
+Not Found: /ngo/profile/favicon.png
+Not Found: /ngo/profile/favicon.png
+"GET /ngo/profile/favicon.png HTTP/1.1" 404 5333
+"GET /ngo/profile/favicon.png HTTP/1.1" 404 5333
+"GET /ngo/jobs/create HTTP/1.1" 200 12563
+"GET /ngo/jobs/create HTTP/1.1" 200 12563
+Not Found: /ngo/jobs/favicon.png
+Not Found: /ngo/jobs/favicon.png
+"GET /ngo/jobs/favicon.png HTTP/1.1" 404 5324
+"GET /ngo/jobs/favicon.png HTTP/1.1" 404 5324
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 28459
+"GET / HTTP/1.1" 200 28459
+"GET /jobs/28 HTTP/1.1" 200 8567
+"GET /jobs/28 HTTP/1.1" 200 8567
+Not Found: /jobs/favicon.png
+Not Found: /jobs/favicon.png
+"GET /jobs/favicon.png HTTP/1.1" 404 5312
+"GET /jobs/favicon.png HTTP/1.1" 404 5312
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"GET /user/register HTTP/1.1" 200 10416
+"GET /user/register HTTP/1.1" 200 10416
+Not Found: /user/favicon.png
+Not Found: /user/favicon.png
+"GET /user/favicon.png HTTP/1.1" 404 5312
+"GET /user/favicon.png HTTP/1.1" 404 5312
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"GET / HTTP/1.1" 200 28010
+"GET / HTTP/1.1" 200 28010
+Not Found: /favicon.png
+Not Found: /favicon.png
+"GET /favicon.png HTTP/1.1" 404 5297
+"GET /favicon.png HTTP/1.1" 404 5297
+"GET /ngo/register HTTP/1.1" 200 10963
+"GET /ngo/register HTTP/1.1" 200 10963
+Not Found: /ngo/favicon.png
+Not Found: /ngo/favicon.png
+"GET /ngo/favicon.png HTTP/1.1" 404 5309
+"GET /ngo/favicon.png HTTP/1.1" 404 5309
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"GET / HTTP/1.1" 200 28010
+"GET / HTTP/1.1" 200 28010
+"GET /user/register HTTP/1.1" 200 10416
+"GET /user/register HTTP/1.1" 200 10416
+Not Found: /user/favicon.png
+Not Found: /user/favicon.png
+"GET /user/favicon.png HTTP/1.1" 404 5312
+"GET /user/favicon.png HTTP/1.1" 404 5312
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699

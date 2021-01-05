@@ -1,0 +1,466 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 22967
+"GET / HTTP/1.1" 200 22967
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140930
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140930
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 200 1380
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 200 1380
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 200 4744
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 200 4744
+"GET /static/css/style.default.css HTTP/1.1" 200 57407
+"GET /static/css/style.default.css HTTP/1.1" 200 57407
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31396
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31396
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 200 86927
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 200 86927
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 50731
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 50731
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 200 3121
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 200 3121
+"GET /static/css/custom.css HTTP/1.1" 200 25
+"GET /static/css/custom.css HTTP/1.1" 200 25
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 200 20337
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 200 20337
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 200 44342
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 200 44342
+"GET /static/js/front.js HTTP/1.1" 200 8053
+"GET /static/js/front.js HTTP/1.1" 200 8053
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 200 44448
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 200 44448
+"GET /static/img/company-1.png HTTP/1.1" 200 3494
+"GET /static/img/company-1.png HTTP/1.1" 200 3494
+"GET /static/img/featured1.jpg HTTP/1.1" 200 13701
+"GET /static/img/featured1.jpg HTTP/1.1" 200 13701
+"GET /static/img/logo-small.png HTTP/1.1" 200 5152
+"GET /static/img/logo-small.png HTTP/1.1" 200 5152
+Not Found: /favicon.png
+Not Found: /favicon.png
+"GET /favicon.png HTTP/1.1" 404 4546
+"GET /favicon.png HTTP/1.1" 404 4546
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 23540
+"GET / HTTP/1.1" 200 23540
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 23319
+"GET / HTTP/1.1" 200 23319
+"GET /user/profile/update HTTP/1.1" 200 8866
+"GET /user/profile/update HTTP/1.1" 200 8866
+Not Found: /user/profile/favicon.png
+Not Found: /user/profile/favicon.png
+"GET /user/profile/favicon.png HTTP/1.1" 404 4585
+"GET /user/profile/favicon.png HTTP/1.1" 404 4585
+"GET / HTTP/1.1" 200 23319
+"GET / HTTP/1.1" 200 23319
+"GET / HTTP/1.1" 200 23319
+"GET / HTTP/1.1" 200 23319
+"GET /static/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 404 1752
+"GET /static/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 404 1752
+"GET / HTTP/1.1" 200 23286
+"GET / HTTP/1.1" 200 23286
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 200 79
+"GET /static/css/custom.css HTTP/1.1" 200 79
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/featured1.jpg HTTP/1.1" 304 0
+"GET /static/img/featured1.jpg HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 404 1752
+"GET /static/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 404 1752
+"GET /static/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 404 1752
+"GET /static/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 404 1752
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 23324
+"GET / HTTP/1.1" 200 23324
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31396
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31396
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 200 4744
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 200 4744
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 200 1380
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 200 1380
+"GET /static/css/custom.css HTTP/1.1" 200 79
+"GET /static/css/custom.css HTTP/1.1" 200 79
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140930
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140930
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 200 86927
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 200 86927
+"GET /static/css/style.default.css HTTP/1.1" 200 57407
+"GET /static/css/style.default.css HTTP/1.1" 200 57407
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 200 20337
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 200 20337
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 200 3121
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 200 3121
+"GET /static/js/front.js HTTP/1.1" 200 8053
+"GET /static/js/front.js HTTP/1.1" 200 8053
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 200 44448
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 50731
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 200 44448
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 200 44342
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 50731
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 200 44342
+"GET /static/img/logo-small.png HTTP/1.1" 200 5152
+"GET /static/img/logo-small.png HTTP/1.1" 200 5152
+"GET /static/img/company-1.png HTTP/1.1" 200 3494
+"GET /static/img/company-1.png HTTP/1.1" 200 3494
+"GET /static/img/featured1.jpg HTTP/1.1" 200 13701
+"GET /static/img/featured1.jpg HTTP/1.1" 200 13701
+Not Found: /favicon.png
+Not Found: /favicon.png
+"GET /favicon.png HTTP/1.1" 404 4546
+"GET /favicon.png HTTP/1.1" 404 4546
+"GET /user/profile/update HTTP/1.1" 200 8876
+"GET /user/profile/update HTTP/1.1" 200 8876
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+Not Found: /user/profile/favicon.png
+Not Found: /user/profile/favicon.png
+"GET /user/profile/favicon.png HTTP/1.1" 404 4585
+"GET /user/profile/favicon.png HTTP/1.1" 404 4585
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"POST /login HTTP/1.1" 200 7101
+"POST /login HTTP/1.1" 200 7101
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /ngo/register HTTP/1.1" 200 10017
+"GET /ngo/register HTTP/1.1" 200 10017
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+Not Found: /ngo/favicon.png
+Not Found: /ngo/favicon.png
+"GET /ngo/favicon.png HTTP/1.1" 404 4558
+"GET /ngo/favicon.png HTTP/1.1" 404 4558
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 23542
+"GET / HTTP/1.1" 200 23542
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/featured1.jpg HTTP/1.1" 304 0
+"GET /static/img/featured1.jpg HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /ngo/profile/update HTTP/1.1" 200 9077
+"GET /ngo/profile/update HTTP/1.1" 200 9077
+Not Found: /ngo/profile/favicon.png
+Not Found: /ngo/profile/favicon.png
+"GET /ngo/profile/favicon.png HTTP/1.1" 404 4582
+"GET /ngo/profile/favicon.png HTTP/1.1" 404 4582
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 6307
+"GET /ngo/dashboard/all-applicants HTTP/1.1" 200 6307
+Not Found: /ngo/dashboard/favicon.png
+Not Found: /ngo/dashboard/favicon.png
+"GET /ngo/dashboard/favicon.png HTTP/1.1" 404 5438
+"GET /ngo/dashboard/favicon.png HTTP/1.1" 404 5438
+"GET / HTTP/1.1" 200 23542
+"GET / HTTP/1.1" 200 23542
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/featured1.jpg HTTP/1.1" 304 0
+"GET /static/img/featured1.jpg HTTP/1.1" 304 0
+Not Found: /favicon.png
+Not Found: /favicon.png
+"GET /favicon.png HTTP/1.1" 404 4546
+"GET /favicon.png HTTP/1.1" 404 4546
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"GET /user/register HTTP/1.1" 200 9477
+"GET /user/register HTTP/1.1" 200 9477
+Not Found: /user/favicon.png
+Not Found: /user/favicon.png
+"GET /user/favicon.png HTTP/1.1" 404 4561
+"GET /user/favicon.png HTTP/1.1" 404 4561
+Internal Server Error: /user/register
+Traceback (most recent call last):
+  File "C:\Program Files\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Program Files\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: accounts_user.account_no
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Program Files\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Program Files\lib\site-packages\django\core\handlers\base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Program Files\lib\site-packages\django\views\generic\base.py", line 73, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\91733\Desktop\MIFT\MIFT\accounts\views.py", line 22, in dispatch
+    return super().dispatch(self.request, *args, **kwargs)
+  File "C:\Program Files\lib\site-packages\django\views\generic\base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\91733\Desktop\MIFT\MIFT\accounts\views.py", line 32, in post
+    user.save()
+  File "C:\Program Files\lib\site-packages\django\contrib\auth\base_user.py", line 67, in save
+    super().save(*args, **kwargs)
+  File "C:\Program Files\lib\site-packages\django\db\models\base.py", line 751, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Program Files\lib\site-packages\django\db\models\base.py", line 789, in save_base
+    force_update, using, update_fields,
+  File "C:\Program Files\lib\site-packages\django\db\models\base.py", line 892, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Program Files\lib\site-packages\django\db\models\base.py", line 932, in _do_insert
+    using=using, raw=raw,
+  File "C:\Program Files\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Program Files\lib\site-packages\django\db\models\query.py", line 1249, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Program Files\lib\site-packages\django\db\models\sql\compiler.py", line 1395, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Program Files\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Program Files\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Program Files\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Program Files\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Program Files\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Program Files\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Program Files\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: accounts_user.account_no
+Internal Server Error: /user/register
+Traceback (most recent call last):
+  File "C:\Program Files\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Program Files\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: accounts_user.account_no
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Program Files\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Program Files\lib\site-packages\django\core\handlers\base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Program Files\lib\site-packages\django\views\generic\base.py", line 73, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\91733\Desktop\MIFT\MIFT\accounts\views.py", line 22, in dispatch
+    return super().dispatch(self.request, *args, **kwargs)
+  File "C:\Program Files\lib\site-packages\django\views\generic\base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\91733\Desktop\MIFT\MIFT\accounts\views.py", line 32, in post
+    user.save()
+  File "C:\Program Files\lib\site-packages\django\contrib\auth\base_user.py", line 67, in save
+    super().save(*args, **kwargs)
+  File "C:\Program Files\lib\site-packages\django\db\models\base.py", line 751, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Program Files\lib\site-packages\django\db\models\base.py", line 789, in save_base
+    force_update, using, update_fields,
+  File "C:\Program Files\lib\site-packages\django\db\models\base.py", line 892, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Program Files\lib\site-packages\django\db\models\base.py", line 932, in _do_insert
+    using=using, raw=raw,
+  File "C:\Program Files\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Program Files\lib\site-packages\django\db\models\query.py", line 1249, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Program Files\lib\site-packages\django\db\models\sql\compiler.py", line 1395, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Program Files\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Program Files\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Program Files\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Program Files\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Program Files\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Program Files\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Program Files\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: accounts_user.account_no
+"POST /user/register HTTP/1.1" 500 171243
+"POST /user/register HTTP/1.1" 500 171243
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 4546
+"GET /favicon.ico HTTP/1.1" 404 4546
