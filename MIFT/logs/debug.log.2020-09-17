@@ -1,0 +1,1122 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 18170
+"GET / HTTP/1.1" 200 18170
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31396
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31396
+"GET /static/css/style.default.css HTTP/1.1" 200 57334
+"GET /static/css/style.default.css HTTP/1.1" 200 57334
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140930
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140930
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 200 1380
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 200 1380
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 200 86927
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 200 86927
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 200 4744
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 200 4744
+"GET /static/css/custom.css HTTP/1.1" 200 25
+"GET /static/css/custom.css HTTP/1.1" 200 25
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 200 20337
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 200 20337
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 50731
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 50731
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 200 3121
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 200 3121
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 200 44342
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 200 44342
+"GET /static/img/featured1.jpg HTTP/1.1" 200 121881
+"GET /static/img/featured1.jpg HTTP/1.1" 200 121881
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 200 44448
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 200 44448
+"GET /static/img/logo-small.png HTTP/1.1" 200 5152
+"GET /static/img/logo-small.png HTTP/1.1" 200 5152
+"GET /static/js/front.js HTTP/1.1" 200 8053
+"GET /static/js/front.js HTTP/1.1" 200 8053
+"GET /static/img/company-1.png HTTP/1.1" 200 3494
+"GET /static/img/company-1.png HTTP/1.1" 200 3494
+"GET /static/img/meeting.jpg HTTP/1.1" 200 144248
+"GET /static/img/meeting.jpg HTTP/1.1" 200 144248
+"GET /static/img/startup.jpg HTTP/1.1" 404 1671
+"GET /static/img/startup.jpg HTTP/1.1" 404 1671
+Not Found: /favicon.png
+Not Found: /favicon.png
+"GET /favicon.png HTTP/1.1" 404 4395
+"GET /favicon.png HTTP/1.1" 404 4395
+"GET /login HTTP/1.1" 200 6545
+"GET /login HTTP/1.1" 200 6545
+"GET /employer/register HTTP/1.1" 200 8395
+"GET /employer/register HTTP/1.1" 200 8395
+Not Found: /employer/favicon.png
+Not Found: /employer/favicon.png
+"GET /employer/favicon.png HTTP/1.1" 404 4422
+"GET /employer/favicon.png HTTP/1.1" 404 4422
+"GET /admin HTTP/1.1" 301 0
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 1910
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 1910
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 4395
+"GET /favicon.ico HTTP/1.1" 404 4395
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 2068
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 2068
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 3330
+"GET /admin/ HTTP/1.1" 200 3330
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /admin/authtoken/token/ HTTP/1.1" 200 3185
+"GET /admin/authtoken/token/ HTTP/1.1" 200 3185
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6190
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6190
+"GET /admin/jsi18n/ HTTP/1.1" 200 3223
+"GET /admin/jsi18n/ HTTP/1.1" 200 3223
+"GET /static/admin/js/actions.js HTTP/1.1" 200 6766
+"GET /static/admin/js/actions.js HTTP/1.1" 200 6766
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 8941
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 8941
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1530
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1530
+"GET /static/admin/js/core.js HTTP/1.1" 200 5723
+"GET /static/admin/js/core.js HTTP/1.1" 200 5723
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/ HTTP/1.1" 200 3330
+"GET /admin/ HTTP/1.1" 200 3330
+"GET /admin/ HTTP/1.1" 200 3330
+"GET /admin/ HTTP/1.1" 200 3330
+"GET / HTTP/1.1" 200 18170
+"GET / HTTP/1.1" 200 18170
+"GET /static/img/startup.jpg HTTP/1.1" 404 1671
+"GET /static/img/startup.jpg HTTP/1.1" 404 1671
+"GET /login HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 18170
+"GET / HTTP/1.1" 200 18170
+"GET /static/img/startup.jpg HTTP/1.1" 404 1671
+"GET /static/img/startup.jpg HTTP/1.1" 404 1671
+"GET /login HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 18170
+"GET / HTTP/1.1" 200 18170
+"GET /static/img/startup.jpg HTTP/1.1" 404 1671
+"GET /static/img/startup.jpg HTTP/1.1" 404 1671
+"GET /login HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 18170
+"GET / HTTP/1.1" 200 18170
+"GET /static/img/startup.jpg HTTP/1.1" 404 1671
+"GET /static/img/startup.jpg HTTP/1.1" 404 1671
+"GET /login HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 18170
+"GET / HTTP/1.1" 200 18170
+"GET /static/img/startup.jpg HTTP/1.1" 404 1671
+"GET /static/img/startup.jpg HTTP/1.1" 404 1671
+Internal Server Error: /employee/register
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\accounts\views.py", line 21, in dispatch
+    return HttpResponseRedirect(self.get_success_url())
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\edit.py", line 113, in get_success_url
+    url = self.success_url.format(**self.object.__dict__)
+AttributeError: 'RegisterEmployeeView' object has no attribute 'object'
+Internal Server Error: /employee/register
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\accounts\views.py", line 21, in dispatch
+    return HttpResponseRedirect(self.get_success_url())
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\edit.py", line 113, in get_success_url
+    url = self.success_url.format(**self.object.__dict__)
+AttributeError: 'RegisterEmployeeView' object has no attribute 'object'
+"GET /employee/register HTTP/1.1" 500 83831
+"GET /employee/register HTTP/1.1" 500 83831
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /employee/register
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\accounts\views.py", line 21, in dispatch
+    return HttpResponseRedirect(self.get_success_url())
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\edit.py", line 113, in get_success_url
+    url = self.success_url.format(**self.object.__dict__)
+AttributeError: 'RegisterEmployeeView' object has no attribute 'object'
+Internal Server Error: /employee/register
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\accounts\views.py", line 21, in dispatch
+    return HttpResponseRedirect(self.get_success_url())
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\edit.py", line 113, in get_success_url
+    url = self.success_url.format(**self.object.__dict__)
+AttributeError: 'RegisterEmployeeView' object has no attribute 'object'
+"GET /employee/register HTTP/1.1" 500 83625
+"GET /employee/register HTTP/1.1" 500 83625
+"GET /admin/ HTTP/1.1" 200 3330
+"GET /admin/ HTTP/1.1" 200 3330
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /admin/logout/ HTTP/1.1" 200 1207
+"GET /admin/logout/ HTTP/1.1" 200 1207
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 1910
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 1910
+"GET / HTTP/1.1" 200 18170
+"GET / HTTP/1.1" 200 18170
+"GET /static/img/startup.jpg HTTP/1.1" 404 1671
+"GET /static/img/startup.jpg HTTP/1.1" 404 1671
+"GET /employee/register HTTP/1.1" 200 9327
+"GET /employee/register HTTP/1.1" 200 9327
+Not Found: /employee/favicon.png
+Not Found: /employee/favicon.png
+"GET /employee/favicon.png HTTP/1.1" 404 4422
+"GET /employee/favicon.png HTTP/1.1" 404 4422
+"GET /employer/register HTTP/1.1" 200 8395
+"GET /employer/register HTTP/1.1" 200 8395
+"POST /employer/register HTTP/1.1" 302 0
+"POST /employer/register HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 6545
+"GET /login HTTP/1.1" 200 6545
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 18673
+"GET / HTTP/1.1" 200 18673
+"GET /static/img/startup.jpg HTTP/1.1" 404 1671
+"GET /static/img/startup.jpg HTTP/1.1" 404 1671
+"GET /employer/dashboard/all-applicants HTTP/1.1" 200 6147
+"GET /employer/dashboard/all-applicants HTTP/1.1" 200 6147
+Not Found: /employer/dashboard/favicon.png
+Not Found: /employer/dashboard/favicon.png
+"GET /employer/dashboard/favicon.png HTTP/1.1" 404 5332
+"GET /employer/dashboard/favicon.png HTTP/1.1" 404 5332
+"GET /employer/dashboard/ HTTP/1.1" 200 8307
+"GET /employer/dashboard/ HTTP/1.1" 200 8307
+Internal Server Error: /employer/jobs/create
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\defaulttags.py", line 1021, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\engine.py", line 143, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\engine.py", line 125, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\base.py", line 156, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\base.py", line 194, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\base.py", line 477, in parse
+    raise self.error(token, e)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\base.py", line 475, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\loader_tags.py", line 266, in do_extends
+    nodelist = parser.parse()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\base.py", line 477, in parse
+    raise self.error(token, e)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\base.py", line 475, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\defaulttags.py", line 1078, in load
+    lib = find_library(parser, name)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\defaulttags.py", line 1025, in find_library
+    name, "\n".join(sorted(parser.libraries)),
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+is_already_applied
+l10n
+log
+rest_framework
+static
+tz
+Internal Server Error: /employer/jobs/create
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\defaulttags.py", line 1021, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\engine.py", line 143, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\engine.py", line 125, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\base.py", line 156, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\base.py", line 194, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\base.py", line 477, in parse
+    raise self.error(token, e)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\base.py", line 475, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\loader_tags.py", line 266, in do_extends
+    nodelist = parser.parse()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\base.py", line 477, in parse
+    raise self.error(token, e)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\base.py", line 475, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\defaulttags.py", line 1078, in load
+    lib = find_library(parser, name)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\template\defaulttags.py", line 1025, in find_library
+    name, "\n".join(sorted(parser.libraries)),
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+is_already_applied
+l10n
+log
+rest_framework
+static
+tz
+"GET /employer/jobs/create HTTP/1.1" 500 164493
+"GET /employer/jobs/create HTTP/1.1" 500 164493
+"GET /employer/jobs/create HTTP/1.1" 200 13675
+"GET /employer/jobs/create HTTP/1.1" 200 13675
+"GET /static/vendor/bootstrap-select/css/bootstrap-select.min.css HTTP/1.1" 200 9777
+"GET /static/vendor/bootstrap-select/css/bootstrap-select.min.css HTTP/1.1" 200 9777
+Not Found: /employer/jobs/favicon.png
+Not Found: /employer/jobs/favicon.png
+"GET /employer/jobs/favicon.png HTTP/1.1" 404 4437
+"GET /employer/jobs/favicon.png HTTP/1.1" 404 4437
+"GET /employer/jobs/create HTTP/1.1" 200 13675
+"GET /employer/jobs/create HTTP/1.1" 200 13675
+"GET /employer/dashboard/all-applicants HTTP/1.1" 200 6147
+"GET /employer/dashboard/all-applicants HTTP/1.1" 200 6147
+"GET /employer/jobs/create HTTP/1.1" 200 13675
+"GET /employer/jobs/create HTTP/1.1" 200 13675
+"POST /employer/jobs/create HTTP/1.1" 200 15450
+"POST /employer/jobs/create HTTP/1.1" 200 15450
+POST http://localhost:9200/_bulk?refresh=true [status:N/A request:4.083s]
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 242, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\retry.py", line 376, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1016, in _send_output
+    self.send(msg)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 956, in send
+    self.connect()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00D17DD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+POST http://localhost:9200/_bulk?refresh=true [status:N/A request:4.040s]
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 242, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\retry.py", line 376, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1016, in _send_output
+    self.send(msg)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 956, in send
+    self.connect()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00DE18B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+POST http://localhost:9200/_bulk?refresh=true [status:N/A request:4.036s]
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 242, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\retry.py", line 376, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1016, in _send_output
+    self.send(msg)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 956, in send
+    self.connect()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00765690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+POST http://localhost:9200/_bulk?refresh=true [status:N/A request:4.037s]
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 242, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\retry.py", line 376, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1016, in _send_output
+    self.send(msg)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 956, in send
+    self.connect()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00DE18B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+Internal Server Error: /employer/jobs/create
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 242, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\retry.py", line 376, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1016, in _send_output
+    self.send(msg)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 956, in send
+    self.connect()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00DE18B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\contrib\auth\decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\jobsapp\views\employer.py", line 61, in dispatch
+    return super().dispatch(self.request, *args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\jobsapp\views\employer.py", line 71, in post
+    return self.form_valid(form)
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\jobsapp\views\employer.py", line 65, in form_valid
+    return super(JobCreateView, self).form_valid(form)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\edit.py", line 125, in form_valid
+    self.object = form.save()
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\jobsapp\forms.py", line 27, in save
+    job.save()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\db\models\base.py", line 746, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\db\models\base.py", line 795, in save_base
+    update_fields=update_fields, raw=raw, using=using,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\dispatch\dispatcher.py", line 175, in send
+    for receiver in self._live_receivers(sender)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\dispatch\dispatcher.py", line 175, in <listcomp>
+    for receiver in self._live_receivers(sender)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\signals.py", line 57, in handle_save
+    registry.update(instance)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\registries.py", line 141, in update
+    doc().update(instance, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\documents.py", line 198, in update
+    **kwargs
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\documents.py", line 179, in _bulk
+    return self.bulk(*args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\documents.py", line 146, in bulk
+    return bulk(client=self._get_connection(), actions=actions, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\helpers\actions.py", line 304, in bulk
+    for ok, item in streaming_bulk(client, actions, *args, **kwargs):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\helpers\actions.py", line 234, in streaming_bulk
+    **kwargs
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\helpers\actions.py", line 120, in _process_bulk_chunk
+    raise e
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\helpers\actions.py", line 116, in _process_bulk_chunk
+    resp = client.bulk("\n".join(bulk_actions) + "\n", *args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\client\utils.py", line 84, in _wrapped
+    return func(*args, params=params, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\client\__init__.py", line 449, in bulk
+    "POST", _make_path(index, doc_type, "_bulk"), params=params, body=body
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\transport.py", line 358, in perform_request
+    timeout=timeout,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 254, in perform_request
+    raise ConnectionError("N/A", str(e), e)
+elasticsearch.exceptions.ConnectionError: ConnectionError(<urllib3.connection.HTTPConnection object at 0x00DE18B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it) caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x00DE18B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it)
+Internal Server Error: /employer/jobs/create
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 242, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\retry.py", line 376, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1016, in _send_output
+    self.send(msg)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 956, in send
+    self.connect()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00DE18B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\contrib\auth\decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\jobsapp\views\employer.py", line 61, in dispatch
+    return super().dispatch(self.request, *args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\jobsapp\views\employer.py", line 71, in post
+    return self.form_valid(form)
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\jobsapp\views\employer.py", line 65, in form_valid
+    return super(JobCreateView, self).form_valid(form)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\edit.py", line 125, in form_valid
+    self.object = form.save()
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\jobsapp\forms.py", line 27, in save
+    job.save()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\db\models\base.py", line 746, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\db\models\base.py", line 795, in save_base
+    update_fields=update_fields, raw=raw, using=using,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\dispatch\dispatcher.py", line 175, in send
+    for receiver in self._live_receivers(sender)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\dispatch\dispatcher.py", line 175, in <listcomp>
+    for receiver in self._live_receivers(sender)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\signals.py", line 57, in handle_save
+    registry.update(instance)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\registries.py", line 141, in update
+    doc().update(instance, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\documents.py", line 198, in update
+    **kwargs
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\documents.py", line 179, in _bulk
+    return self.bulk(*args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\documents.py", line 146, in bulk
+    return bulk(client=self._get_connection(), actions=actions, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\helpers\actions.py", line 304, in bulk
+    for ok, item in streaming_bulk(client, actions, *args, **kwargs):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\helpers\actions.py", line 234, in streaming_bulk
+    **kwargs
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\helpers\actions.py", line 120, in _process_bulk_chunk
+    raise e
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\helpers\actions.py", line 116, in _process_bulk_chunk
+    resp = client.bulk("\n".join(bulk_actions) + "\n", *args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\client\utils.py", line 84, in _wrapped
+    return func(*args, params=params, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\client\__init__.py", line 449, in bulk
+    "POST", _make_path(index, doc_type, "_bulk"), params=params, body=body
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\transport.py", line 358, in perform_request
+    timeout=timeout,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 254, in perform_request
+    raise ConnectionError("N/A", str(e), e)
+elasticsearch.exceptions.ConnectionError: ConnectionError(<urllib3.connection.HTTPConnection object at 0x00DE18B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it) caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x00DE18B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it)
+"POST /employer/jobs/create HTTP/1.1" 500 277107
+"POST /employer/jobs/create HTTP/1.1" 500 277107
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+POST http://localhost:9200/_bulk?refresh=true [status:N/A request:4.041s]
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 242, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\retry.py", line 376, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1016, in _send_output
+    self.send(msg)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 956, in send
+    self.connect()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x05E08990>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+POST http://localhost:9200/_bulk?refresh=true [status:N/A request:4.057s]
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 242, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\retry.py", line 376, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1016, in _send_output
+    self.send(msg)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 956, in send
+    self.connect()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0583C5B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+POST http://localhost:9200/_bulk?refresh=true [status:N/A request:4.046s]
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 242, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\retry.py", line 376, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1016, in _send_output
+    self.send(msg)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 956, in send
+    self.connect()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x06120130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+POST http://localhost:9200/_bulk?refresh=true [status:N/A request:4.041s]
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 242, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\retry.py", line 376, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1016, in _send_output
+    self.send(msg)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 956, in send
+    self.connect()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x061C75D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+Internal Server Error: /employer/jobs/create
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 242, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\retry.py", line 376, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1016, in _send_output
+    self.send(msg)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 956, in send
+    self.connect()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x061C75D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\contrib\auth\decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\jobsapp\views\employer.py", line 61, in dispatch
+    return super().dispatch(self.request, *args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\jobsapp\views\employer.py", line 71, in post
+    return self.form_valid(form)
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\jobsapp\views\employer.py", line 65, in form_valid
+    return super(JobCreateView, self).form_valid(form)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\edit.py", line 125, in form_valid
+    self.object = form.save()
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\jobsapp\forms.py", line 27, in save
+    job.save()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\db\models\base.py", line 746, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\db\models\base.py", line 795, in save_base
+    update_fields=update_fields, raw=raw, using=using,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\dispatch\dispatcher.py", line 175, in send
+    for receiver in self._live_receivers(sender)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\dispatch\dispatcher.py", line 175, in <listcomp>
+    for receiver in self._live_receivers(sender)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\signals.py", line 57, in handle_save
+    registry.update(instance)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\registries.py", line 141, in update
+    doc().update(instance, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\documents.py", line 198, in update
+    **kwargs
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\documents.py", line 179, in _bulk
+    return self.bulk(*args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\documents.py", line 146, in bulk
+    return bulk(client=self._get_connection(), actions=actions, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\helpers\actions.py", line 304, in bulk
+    for ok, item in streaming_bulk(client, actions, *args, **kwargs):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\helpers\actions.py", line 234, in streaming_bulk
+    **kwargs
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\helpers\actions.py", line 120, in _process_bulk_chunk
+    raise e
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\helpers\actions.py", line 116, in _process_bulk_chunk
+    resp = client.bulk("\n".join(bulk_actions) + "\n", *args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\client\utils.py", line 84, in _wrapped
+    return func(*args, params=params, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\client\__init__.py", line 449, in bulk
+    "POST", _make_path(index, doc_type, "_bulk"), params=params, body=body
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\transport.py", line 358, in perform_request
+    timeout=timeout,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 254, in perform_request
+    raise ConnectionError("N/A", str(e), e)
+elasticsearch.exceptions.ConnectionError: ConnectionError(<urllib3.connection.HTTPConnection object at 0x061C75D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it) caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x061C75D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it)
+Internal Server Error: /employer/jobs/create
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 242, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\retry.py", line 376, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\packages\six.py", line 735, in reraise
+    raise value
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1016, in _send_output
+    self.send(msg)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 956, in send
+    self.connect()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x061C75D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\contrib\auth\decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\jobsapp\views\employer.py", line 61, in dispatch
+    return super().dispatch(self.request, *args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\jobsapp\views\employer.py", line 71, in post
+    return self.form_valid(form)
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\jobsapp\views\employer.py", line 65, in form_valid
+    return super(JobCreateView, self).form_valid(form)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\views\generic\edit.py", line 125, in form_valid
+    self.object = form.save()
+  File "C:\Users\ELCOT\Desktop\django-job-portal-master\jobsapp\forms.py", line 27, in save
+    job.save()
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\db\models\base.py", line 746, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\db\models\base.py", line 795, in save_base
+    update_fields=update_fields, raw=raw, using=using,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\dispatch\dispatcher.py", line 175, in send
+    for receiver in self._live_receivers(sender)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\dispatch\dispatcher.py", line 175, in <listcomp>
+    for receiver in self._live_receivers(sender)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\signals.py", line 57, in handle_save
+    registry.update(instance)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\registries.py", line 141, in update
+    doc().update(instance, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\documents.py", line 198, in update
+    **kwargs
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\documents.py", line 179, in _bulk
+    return self.bulk(*args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django_elasticsearch_dsl\documents.py", line 146, in bulk
+    return bulk(client=self._get_connection(), actions=actions, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\helpers\actions.py", line 304, in bulk
+    for ok, item in streaming_bulk(client, actions, *args, **kwargs):
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\helpers\actions.py", line 234, in streaming_bulk
+    **kwargs
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\helpers\actions.py", line 120, in _process_bulk_chunk
+    raise e
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\helpers\actions.py", line 116, in _process_bulk_chunk
+    resp = client.bulk("\n".join(bulk_actions) + "\n", *args, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\client\utils.py", line 84, in _wrapped
+    return func(*args, params=params, **kwargs)
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\client\__init__.py", line 449, in bulk
+    "POST", _make_path(index, doc_type, "_bulk"), params=params, body=body
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\transport.py", line 358, in perform_request
+    timeout=timeout,
+  File "C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 254, in perform_request
+    raise ConnectionError("N/A", str(e), e)
+elasticsearch.exceptions.ConnectionError: ConnectionError(<urllib3.connection.HTTPConnection object at 0x061C75D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it) caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x061C75D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it)
+"POST /employer/jobs/create HTTP/1.1" 500 279446
+"POST /employer/jobs/create HTTP/1.1" 500 279446

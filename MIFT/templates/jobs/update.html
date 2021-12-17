@@ -1,0 +1,188 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}
+    {{ title }}
+{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{% static 'vendor/bootstrap-select/css/bootstrap-select.min.css' %}">
+{% endblock %}
+
+{% block content %}
+
+    <section class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h1 class="heading">Edit post</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 mx-auto">
+                    {% if form.errors %}
+                        {% for field in form %}
+                            {% for error in field.errors %}
+                                <div class="alert alert-danger alert-dismissable">
+                                    <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+                                    <strong>{{ field.label }}: {{ error|escape }}</strong>
+                                </div>
+                            {% endfor %}
+                        {% endfor %}
+                    {% endif %}
+                    <form id="job-main-form" method="post" action="" class="job-add-form">
+                        {% csrf_token %}
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <h4>Post details</h4>
+                                <hr>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12 form-group">
+                                <label for="title">Post Title</label>
+                                <input id="title" name="title" type="text" class="form-control" value="{{ form.title.value|default_if_none:"" }}">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12 form-group">
+                                <label for="text">Post Description</label>
+                                <textarea id="text" name="description" rows="5" class="form-control">{{ form.description.value|default_if_none:"" }}</textarea>
+                            </div>
+                        </div>
+                        <!-- <div class="row">
+                            <div class="col-lg-12 form-group">
+                                <label for="salary">Salary(Leave empty if it's negotiable)</label>
+                                <input id="salary" name="salary" type="number" min="1000" class="form-control" value="{{ form.salary.value|default_if_none:"" }}">
+                            </div>
+                        </div> -->
+                        <div class="row">
+                            <div class="col-lg-6 form-group">
+                                <label for="location">Location</label>
+                                <input id="location" name="location" type="text" placeholder="e.g. Dhaka, Bangladesh"
+                                       class="form-control" value="{{ form.location.value|default_if_none:"" }}">
+                            </div>
+                            <div class="col-lg-6 form-group">
+                                <label for="type">Type</label>
+                                 {% if user.role == 'user' %}
+                            <select id="type" name="type" placeholder="Choose job type"
+                                        class="form-control select2">
+                                    <option value="2" {% if form.type.value == "2" %} selected {% endif %}>Volunteering</option>
+                                    <!-- <option value="3" {% if form.type.value == "3" %} selected {% endif %}>Internship</option> -->
+                                </select>
+                            {% else %}
+                                <select id="type" name="type" placeholder="Choose job type"
+                                        class="form-control select2">
+                                    <option value="1" {% if form.type.value == "1" %} selected {% endif %}>Fund</option>
+                                    <option value="2" {% if form.type.value == "2" %} selected {% endif %}>Volunteering</option>
+                                    <!-- <option value="3" {% if form.type.value == "3" %} selected {% endif %}>Internship</option> -->
+                                </select>
+                            {% endif %}
+                            </div>
+                        </div>
+                        <!-- <div class="row">
+                            <div class="col-lg-12 form-group">
+                                <label for="category">Category</label>
+                                <select id="category" name="category" class="form-control select2">
+                                    <option value="web-design" {% if form.category.value == "web-design" %} selected {% endif %}>Web design</option>
+                                    <option value="graphic-design" {% if form.category.value == "graphic-design" %} selected {% endif %}>Graphic design</option>
+                                    <option value="web-development" {% if form.category.value == "web-development" %} selected {% endif %}>Web development</option>
+                                    <option value="human-resource" {% if form.category.value == "human-resource" %} selected {% endif %}>Human Resources</option>
+                                    <option value="support" {% if form.category.value == "support" %} selected {% endif %}>Support</option>
+                                    <option value="android" {% if form.category.value == "android" %} selected {% endif %}>Android</option>
+                                </select>
+                            </div>
+                        </div> -->
+                        <div class="row">
+                            <div class="col-xl-6 form-group">
+                                <label for="phone_number">Phone Number <span
+                                        class="note">(Volunteer will contact you)</span></label>
+                                <input id="phone_number" name="phone_number" type="number" class="form-control" value="{{ form.phone_number.value|default_if_none:"" }}">
+                            </div>
+                            <div class="col-xl-6 form-group">
+                                <label for="validity">Validity of the post</label>
+                                <input id="validity" name="last_date" type="date" class="form-control" value="{{ form.last_date.value|default_if_none:"" }}">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <hr class="margin-bottom--big">
+                            </div>
+                        </div>
+						
+					{% if request.user.role == 'ngo' %}
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <h4>NGO details</h4>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12 form-group">
+                                <label for="company_name">NGO Name</label>
+                                <input id="company_name" name="company_name" type="text" class="form-control" value="{{ form.company_name.value|default_if_none:"" }}">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12 form-group">
+                                <p class="text-danger">{{ form.company_description.errors }}</p>
+                                <label for="company_description">NGO Description</label>
+                                <textarea id="company_description" name="company_description" rows="3"
+                                          class="form-control">{{ form.company_description.value|default_if_none:"" }}</textarea>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4 form-group">
+                                <label for="company_website">Website</label>
+                                <input id="company_website" name="website" type="url" class="form-control" value="{{ form.website.value|default_if_none:"" }}">
+                            </div>
+                        </div>
+					{% else %}
+						<div class="row">
+                            <div class="col-lg-12">
+                                <h4>User details</h4>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12 form-group">
+                                <label for="company_name">User Name</label>
+                                <input id="company_name" name="company_name" type="text" class="form-control" value="{{ form.company_name.value|default_if_none:"" }}">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12 form-group">
+                                <p class="text-danger">{{ form.company_description.errors }}</p>
+                                <label for="company_description">User Description</label>
+                                <textarea id="company_description" name="company_description" rows="3"
+                                          class="form-control">{{ form.company_description.value|default_if_none:"" }}</textarea>
+                            </div>
+                        </div>
+					{% endif %}
+						
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <hr>
+                                <div class="checkbox text-center">
+                                    <label>
+                                        <input type="checkbox"> I hereBy declare the above furnished details are true to the best of my knowledge.
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12 text-center">
+                                <hr>
+                                <button type="submit" class="btn btn-outline-white-primary"><i class="fa fa-magic"></i>
+                                    Save and publish
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+{% endblock %}

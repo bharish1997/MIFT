@@ -1,0 +1,994 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 22964
+"GET / HTTP/1.1" 200 22964
+"GET /ngo/register HTTP/1.1" 200 10017
+"GET /ngo/register HTTP/1.1" 200 10017
+Not Found: /ngo/favicon.png
+Not Found: /ngo/favicon.png
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 23436
+"GET / HTTP/1.1" 200 23436
+"GET / HTTP/1.1" 200 23538
+"GET / HTTP/1.1" 200 23538
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/img/featured1.jpg HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/featured1.jpg HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+Forbidden (Permission denied): /user/profile/update
+Traceback (most recent call last):
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/decorators.py", line 21, in wrap
+    raise PermissionDenied
+django.core.exceptions.PermissionDenied
+Forbidden (Permission denied): /user/profile/update
+Traceback (most recent call last):
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/decorators.py", line 21, in wrap
+    raise PermissionDenied
+django.core.exceptions.PermissionDenied
+"GET /user/profile/update HTTP/1.1" 403 135
+"GET /user/profile/update HTTP/1.1" 403 135
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"GET /ngo/register HTTP/1.1" 200 10017
+"GET /ngo/register HTTP/1.1" 200 10017
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /ngo/register HTTP/1.1" 200 10017
+"GET /ngo/register HTTP/1.1" 200 10017
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 23436
+"GET / HTTP/1.1" 200 23436
+"GET / HTTP/1.1" 200 23538
+"GET / HTTP/1.1" 200 23538
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/img/featured1.jpg HTTP/1.1" 304 0
+"GET /static/img/featured1.jpg HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+Forbidden (Permission denied): /user/profile/update
+Traceback (most recent call last):
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/decorators.py", line 21, in wrap
+    raise PermissionDenied
+django.core.exceptions.PermissionDenied
+Forbidden (Permission denied): /user/profile/update
+Traceback (most recent call last):
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/decorators.py", line 21, in wrap
+    raise PermissionDenied
+django.core.exceptions.PermissionDenied
+"GET /user/profile/update HTTP/1.1" 403 135
+"GET /user/profile/update HTTP/1.1" 403 135
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 23538
+"GET / HTTP/1.1" 200 23538
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/featured1.jpg HTTP/1.1" 304 0
+"GET /static/img/featured1.jpg HTTP/1.1" 304 0
+"GET /user/profile/update HTTP/1.1" 200 8576
+"GET /user/profile/update HTTP/1.1" 200 8576
+Not Found: /user/profile/favicon.png
+Not Found: /user/profile/favicon.png
+"GET /user/profile/favicon.png HTTP/1.1" 404 4393
+"GET /user/profile/favicon.png HTTP/1.1" 404 4393
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin HTTP/1.1" 301 0
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 2071
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 2071
+"GET /static/admin/css/base.css HTTP/1.1" 200 16378
+"GET /static/admin/css/base.css HTTP/1.1" 200 16378
+"GET /static/admin/css/login.css HTTP/1.1" 200 1233
+"GET /static/admin/css/login.css HTTP/1.1" 200 1233
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 18052
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 18052
+"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 2238
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 2238
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 2071
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 2071
+"GET /logout HTTP/1.1" 302 0
+"GET /logout HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 200 7049
+"GET /login HTTP/1.1" 200 7049
+"GET /ngo/register HTTP/1.1" 200 10017
+"GET /ngo/register HTTP/1.1" 200 10017
+"GET /login HTTP/1.1" 200 6699
+"GET /login HTTP/1.1" 200 6699
+"POST /login HTTP/1.1" 302 0
+"POST /login HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 23538
+"GET / HTTP/1.1" 200 23538
+"GET /user/profile/update HTTP/1.1" 200 8576
+"GET /user/profile/update HTTP/1.1" 200 8576
+"GET /user/profile/update HTTP/1.1" 200 8008
+"GET /user/profile/update HTTP/1.1" 200 8008
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /user/profile/update HTTP/1.1" 200 8008
+"GET /user/profile/update HTTP/1.1" 200 8008
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/urls.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/urls.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /user/profile/update HTTP/1.1" 200 8575
+"GET /user/profile/update HTTP/1.1" 200 8575
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /user/profile/update HTTP/1.1" 200 8575
+"GET /user/profile/update HTTP/1.1" 200 8575
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /user/profile/update HTTP/1.1" 200 8575
+"GET /user/profile/update HTTP/1.1" 200 8575
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /user/profile/update HTTP/1.1" 200 8575
+"GET /user/profile/update HTTP/1.1" 200 8575
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /user/profile/update HTTP/1.1" 200 8575
+"GET /user/profile/update HTTP/1.1" 200 8575
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET / HTTP/1.1" 200 23537
+"GET / HTTP/1.1" 200 23537
+"GET / HTTP/1.1" 200 23537
+"GET / HTTP/1.1" 200 23537
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/featured1.jpg HTTP/1.1" 304 0
+"GET /static/img/featured1.jpg HTTP/1.1" 304 0
+"GET /ngo/profile/update HTTP/1.1" 200 6988
+"GET /ngo/profile/update HTTP/1.1" 200 6988
+Not Found: /ngo/profile/favicon.png
+Not Found: /ngo/profile/favicon.png
+"GET /ngo/profile/favicon.png HTTP/1.1" 404 4582
+"GET /ngo/profile/favicon.png HTTP/1.1" 404 4582
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /ngo/profile/update
+Traceback (most recent call last):
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py", line 49, in dispatch
+    return super().dispatch(self.request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py", line 57, in get
+    return self.render_to_response(self.get_context_data())
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/edit.py", line 66, in get_context_data
+    kwargs['form'] = self.get_form()
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/edit.py", line 33, in get_form
+    return form_class(**self.get_form_kwargs())
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py", line 227, in __init__
+    self.fields['ename'].widget.attrs.update(
+KeyError: 'ename'
+Internal Server Error: /ngo/profile/update
+Traceback (most recent call last):
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py", line 49, in dispatch
+    return super().dispatch(self.request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py", line 57, in get
+    return self.render_to_response(self.get_context_data())
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/edit.py", line 66, in get_context_data
+    kwargs['form'] = self.get_form()
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/edit.py", line 33, in get_form
+    return form_class(**self.get_form_kwargs())
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py", line 227, in __init__
+    self.fields['ename'].widget.attrs.update(
+KeyError: 'ename'
+"GET /ngo/profile/update HTTP/1.1" 500 108848
+"GET /ngo/profile/update HTTP/1.1" 500 108848
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /ngo/profile/update HTTP/1.1" 200 7496
+"GET /ngo/profile/update HTTP/1.1" 200 7496
+"POST /ngo/profile/update HTTP/1.1" 302 0
+"POST /ngo/profile/update HTTP/1.1" 302 0
+"GET /ngo/profile/update HTTP/1.1" 200 7498
+"GET /ngo/profile/update HTTP/1.1" 200 7498
+"POST /ngo/profile/update HTTP/1.1" 302 0
+"POST /ngo/profile/update HTTP/1.1" 302 0
+"GET /ngo/profile/update HTTP/1.1" 200 7496
+"GET /ngo/profile/update HTTP/1.1" 200 7496
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /ngo/profile/update HTTP/1.1" 200 9631
+"GET /ngo/profile/update HTTP/1.1" 200 9631
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /ngo/profile/update HTTP/1.1" 200 9631
+"GET /ngo/profile/update HTTP/1.1" 200 9631
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /ngo/profile/update
+Traceback (most recent call last):
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py", line 49, in dispatch
+    return super().dispatch(self.request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py", line 57, in get
+    return self.render_to_response(self.get_context_data())
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/edit.py", line 66, in get_context_data
+    kwargs['form'] = self.get_form()
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/edit.py", line 33, in get_form
+    return form_class(**self.get_form_kwargs())
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py", line 232, in __init__
+    self.fields[''].widget.attrs.update(
+KeyError: ''
+Internal Server Error: /ngo/profile/update
+Traceback (most recent call last):
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py", line 49, in dispatch
+    return super().dispatch(self.request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py", line 57, in get
+    return self.render_to_response(self.get_context_data())
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/edit.py", line 66, in get_context_data
+    kwargs['form'] = self.get_form()
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/edit.py", line 33, in get_form
+    return form_class(**self.get_form_kwargs())
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py", line 232, in __init__
+    self.fields[''].widget.attrs.update(
+KeyError: ''
+"GET /ngo/profile/update HTTP/1.1" 500 108888
+"GET /ngo/profile/update HTTP/1.1" 500 108888
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /ngo/profile/update
+Traceback (most recent call last):
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py", line 49, in dispatch
+    return super().dispatch(self.request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py", line 57, in get
+    return self.render_to_response(self.get_context_data())
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/edit.py", line 66, in get_context_data
+    kwargs['form'] = self.get_form()
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/edit.py", line 33, in get_form
+    return form_class(**self.get_form_kwargs())
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py", line 232, in __init__
+    self.fields.widget.attrs.update(
+AttributeError: 'dict' object has no attribute 'widget'
+Internal Server Error: /ngo/profile/update
+Traceback (most recent call last):
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py", line 49, in dispatch
+    return super().dispatch(self.request, *args, **kwargs)
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/jobsapp/views/user.py", line 57, in get
+    return self.render_to_response(self.get_context_data())
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/edit.py", line 66, in get_context_data
+    kwargs['form'] = self.get_form()
+  File "/home/geek/.local/lib/python3.8/site-packages/django/views/generic/edit.py", line 33, in get_form
+    return form_class(**self.get_form_kwargs())
+  File "/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py", line 232, in __init__
+    self.fields.widget.attrs.update(
+AttributeError: 'dict' object has no attribute 'widget'
+"GET /ngo/profile/update HTTP/1.1" 500 109096
+"GET /ngo/profile/update HTTP/1.1" 500 109096
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /ngo/profile/update HTTP/1.1" 200 9631
+"GET /ngo/profile/update HTTP/1.1" 200 9631
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /ngo/profile/update HTTP/1.1" 200 9631
+"GET /ngo/profile/update HTTP/1.1" 200 9631
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"POST /ngo/profile/update HTTP/1.1" 302 0
+"POST /ngo/profile/update HTTP/1.1" 302 0
+"GET /ngo/profile/update HTTP/1.1" 302 0
+"GET /ngo/profile/update HTTP/1.1" 302 0
+"GET /login?next=/ngo/profile/update HTTP/1.1" 200 6699
+"GET /login?next=/ngo/profile/update HTTP/1.1" 200 6699
+"POST /login?next=/ngo/profile/update HTTP/1.1" 200 7101
+"POST /login?next=/ngo/profile/update HTTP/1.1" 200 7101
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /login?next=/ngo/profile/update HTTP/1.1" 302 0
+"POST /login?next=/ngo/profile/update HTTP/1.1" 302 0
+"GET /ngo/profile/update HTTP/1.1" 200 9617
+"GET /ngo/profile/update HTTP/1.1" 200 9617
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+/home/geek/Desktop/modified/modified/django-job-portal-master/accounts/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /ngo/profile/update HTTP/1.1" 200 9048
+"GET /ngo/profile/update HTTP/1.1" 200 9048
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/js/front.js HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/style.default.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/css/custom.css HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/logo-small.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
+"GET /static/img/company-1.png HTTP/1.1" 304 0
