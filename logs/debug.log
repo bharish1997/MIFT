@@ -1388,3 +1388,5 @@ Not Found: /user/favicon.png
 "GET /user/favicon.png HTTP/1.1" 404 5312
 "GET /login HTTP/1.1" 200 6699
 "GET /login HTTP/1.1" 200 6699
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
