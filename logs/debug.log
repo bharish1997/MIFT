@@ -1390,3 +1390,45 @@ Not Found: /user/favicon.png
 "GET /login HTTP/1.1" 200 6699
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 22023
+"GET / HTTP/1.1" 200 22023
+"GET /static/css/custom.css HTTP/1.1" 200 83
+"GET /static/css/custom.css HTTP/1.1" 200 83
+"GET /static/css/style.default.css HTTP/1.1" 200 57408
+"GET /static/css/style.default.css HTTP/1.1" 200 57408
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 200 4930
+"GET /static/vendor/owl.carousel/assets/owl.carousel.css HTTP/1.1" 200 4930
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31400
+"GET /static/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31400
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 200 1430
+"GET /static/vendor/owl.carousel/assets/owl.theme.default.css HTTP/1.1" 200 1430
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140936
+"GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140936
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 200 86929
+"GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 200 86929
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 200 3238
+"GET /static/vendor/jquery.cookie/jquery.cookie.js HTTP/1.1" 200 3238
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 50737
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 50737
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 200 44348
+"GET /static/vendor/owl.carousel/owl.carousel.min.js HTTP/1.1" 200 44348
+"GET /static/js/front.js HTTP/1.1" 200 8350
+"GET /static/js/front.js HTTP/1.1" 200 8350
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 200 20342
+"GET /static/vendor/popper.js/umd/popper.min.js HTTP/1.1" 200 20342
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 200 44456
+"GET /static/vendor/bootstrap-select/js/bootstrap-select.min.js HTTP/1.1" 200 44456
+"GET /static/img/featured1.jpg HTTP/1.1" 200 13701
+"GET /static/img/featured1.jpg HTTP/1.1" 200 13701
+"GET /static/img/logo-small.png HTTP/1.1" 200 5152
+"GET /static/img/logo-small.png HTTP/1.1" 200 5152
+"GET / HTTP/1.1" 200 22023
+"GET / HTTP/1.1" 200 22023
+"GET / HTTP/1.1" 200 22023
+"GET / HTTP/1.1" 200 22023
+"GET / HTTP/1.1" 200 22023
+"GET / HTTP/1.1" 200 22023
+"GET / HTTP/1.1" 200 22023
+"GET / HTTP/1.1" 200 22023
